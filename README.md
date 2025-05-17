@@ -4,14 +4,14 @@ This project is designed to build a comprehensive **Lummi ↔ English parallel c
 
 ---
 
-## 🚀 **Project Setup**
+##  **Project Setup**
 
-### **1️⃣ Clone the Repository**
+### **Clone the Repository**
 ```bash
 git clone <repository-url>
 cd lummi_parallel_corpus
 
 ### **Install Dependencies**
-1️⃣ Install Python dependencies:
+Install Python dependencies:
 ```bash
 pip install -r requirements.txt
