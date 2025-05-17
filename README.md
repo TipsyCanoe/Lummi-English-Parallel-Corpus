@@ -9,7 +9,7 @@ This project is designed to build a comprehensive **Lummi ↔ English parallel c
 ### **Clone the Repository**
 ```bash
 git clone <repository-url>
-cd lummi_parallel_corpus
+cd Lummi-English-Parallel-Corpus
 
 ### **Install Dependencies**
 Install Python dependencies:
