@@ -4,7 +4,7 @@ import pandas as pd
 import os
 
 # Paths
-OUTPUT_PATH = '../raw_data/gutenberg_vocabulary_v1.csv'
+OUTPUT_PATH = '../raw_data/Lummi_vocab.csv'
 os.makedirs('../raw_data', exist_ok=True)
 
 # URL of the plain text version of the book
