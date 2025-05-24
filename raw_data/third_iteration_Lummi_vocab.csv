@@ -1,22 +1,7 @@
 english,lummi
-"_""hickory"" shirt_",hütl-pé-wün
-"_amongst the forest or ""Stick"" Indians_",klalk-ten-na
-"_what (literally ""who"") is your name?_ wat",tun-má? wat kud sna?
-"UNDERSTAND,",-
-_I understand that_,hüt-che-tu ti-ats;
-_I don't understand_,o-ná kwins-hu-chet;
-_Do you understand Clallam?_ hüt,che-tüt kwüs-sa Nūs-klái-yūm?
-(_clothes_),tsük-ül-kwo′-tüng;
-_I wash_,sa-kwüm′sün
-(_in Simiamoo_),kwül′lüt
-(_In the Simiamoo dialect_,"é-kwüt; _to throw away with violence_,"
-(_Mergus Serrator_),sküm-mätsh
-(_T. Migrat._),tsel-tcha
-(_the face_),tsük-wá-süng;
-(_the hands_),chékw-sim
 1,nüt′sa
 10,o′pün
-100,nat-sa-wütsh 
+100,nat-sa-wütsh
 1000,o-päntsh
 _Personal Cardinals,-_
 11,ó-pün it nüt′sa
@@ -73,6 +58,7 @@ BACK,"_the_, stas-kwitl"
 BAD,"h'äs, s'häs"
 BAG _or sack_,chu-kwal′
 BAIL A BOAT,"_to_, chi-kwást;"
+(_in Simiamoo_),kwül′lüt
 BALD,ko′a-lekw
 bald eagle,yükh-wül-la
 Barberry,skwâ-cha-sitsh
@@ -257,6 +243,7 @@ Deep Water Bay,PisheLaqen
 DEER,"smis, smé-is, hōpt;"
 _a buck_,"ses′tün (""_horned_"");"
 _in Kawitchen_,hau-pa;
+"_amongst the forest or ""Stick"" Indians_",klalk-ten-na
 Dewberry,skül-nu-whélsh
 DIG,"_to_, _roots in general_, pä-nükhw′, pän-hu;"
 _potatoes_,si-a-kwáls;
@@ -587,6 +574,7 @@ Me,I,Sen
 Meat,slé-ük
 MEND,"_to_, chüts-ül-kwüt′tün"
 Merganser (_Mergus Am._),kwa-ōkw;
+(_Mergus Serrator_),sküm-mätsh
 MERRY,nüks-né-ni
 MIDDLE (_of length_),á-no-wüls
 Mink,"kai-yakh, s'ché-a-kün"
@@ -733,6 +721,7 @@ ROAST,"_to_, _in ashes_, tül-lák;"
 _on a stick_,s'kwül′lüng
 robin,kweskek
 Robins (_T. Naevius_),kwüs-kük'h;
+(_T. Migrat._),tsel-tcha
 ROCK,sng-ánt
 Roe,he-a-hetl;
 Root of do.,ko-ma-lokh
@@ -792,6 +781,7 @@ SHAWL,süt-sá-müsh
 Shells,ká-ya-men
 Shi-nám,_magic or medicine_
 SHIRT,küts-á-lis;
+"_""hickory"" shirt_",hütl-pé-wün
 SHOES,"_moccasins_, s'klük′a-shin"
 SHOOT,"_to_, _with a bow_, ts-män"
 SHOT,hüs-üm-ákw
@@ -954,6 +944,7 @@ THREE,"klikhw, kl-whái-la, kl-whält-hu"
 THROAT,haung′en
 THROW,"_to_, _as a stone_, tsi-lakh;"
 _to throw away_,hwélt-hu
+(_In the Simiamoo dialect_,"é-kwüt; _to throw away with violence_,"
 THUMB,süs-táls
 THUNDER,s'hó-hwas
 Thy,ti-nük-wa
@@ -996,6 +987,10 @@ TWO,"chus-sa, chá-sa, tch's-sält-hu"
 tüghs,"_salmon trout_ (_S. Campbelli_, SUCKLEY);"
 Uncle,"latl, hai'tch; (_as the nephew grows older, the uncle becomes"
 UNCOVER,"_to_, küt-lést"
+"UNDERSTAND,",-
+_I understand that_,hüt-che-tu ti-ats;
+_I don't understand_,o-ná kwins-hu-chet;
+_Do you understand Clallam?_ hüt,che-tüt kwüs-sa Nūs-klái-yūm?
 URINATE,"ché-wa. (_This applies to either sex, there not being a"
 Village Point,SkyLekshen
 Vine maple (_A. circinata_),shé-chülp
@@ -1009,6 +1004,9 @@ WARM,"kwass, kwá-lüs"
 Warm / Hot,Kwaeles
 WARRIOR,"nus-chang-kün, mich-kül′lo-wütl"
 WASH,"_to_, (_the hands_), tsük-sé-sümg;"
+(_clothes_),tsük-ül-kwo′-tüng;
+_I wash_,sa-kwüm′sün
+(_the face_),tsük-wá-süng;
 wash your hands,ts'ekwsiseng
 WATER,kaukh
 WAVES,skwüt-la-lák-ün
@@ -1040,6 +1038,7 @@ WHITE,pük'h
 White fir (_A. grandis_),sko′-me-yüks
 WHO,"wät, wat;"
 _who did that?_ wat′la kwuts,chái-a ti-a?
+"_what (literally ""who"") is your name?_ wat",tun-má? wat kud sna?
 WIFE,n'stá-lush (_same as husband_)
 Wild onion,swél-nitsh
 Wild pea,hüm-kwai-á-sin
@@ -1052,6 +1051,7 @@ Wing,"ki-ka′al, sk-ká-al"
 WINGS,sk-käl
 Winter,"chints-é-hüm, chin-sá-tütsh, sá-titsh"
 WIPE,"_to_, (_the face_), nu-hwa-chá-süng;"
+(_the hands_),chékw-sim
 WOLF,st-kái-ükh
 WOMAN,slá-ni
 WOOD,s'chütl;
